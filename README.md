@@ -10,10 +10,6 @@ This is the tangible output of the strategic process outlined below. It's design
 
 <img width="1285" height="725" alt="image" src="https://github.com/user-attachments/assets/8c513d71-fa52-4584-8c87-5df45c97ddac" />
 
-
-![Project Metis Dashboard Preview](./images/dashboard_preview.png)
-*(**Note:** To display your image, upload a screenshot to your repository—ideally in an 'images' folder—and update the path above.)*
-
 ---
 
 ## ⚙️ Visualization: The Insight Engine Framework
